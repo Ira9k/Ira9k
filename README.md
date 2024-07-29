@@ -1,4 +1,4 @@
-Hi there 👋, I'm Spyridoula Karniak!
+Hi there 👋, I'm Spyridoula Ira Karniak!
 
 I'm a highly motivated and analytical mathematics graduate with a strong interest in data science and data engineering. I am passionate about leveraging data to extract insights and drive informed decision-making. Here’s a bit more about me:
 
